@@ -11,6 +11,6 @@ CSS
 
 Getting Started
 To view my portfolio, simply clone this repository and open the index.html file in your web browser.
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/techfizz/portfolio.git
 cd portfolio
 open index.html
